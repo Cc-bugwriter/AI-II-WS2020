@@ -1,0 +1,22 @@
+XXXXXXXXXXXXXXXXXXX
+X    X       X    X
+XUXX X XXXXX X XXUX
+X                 X
+XX X XXX X XXX X XX
+XX X XXX X XXX X XX
+__ X     X     X __
+XX XXX_XXXXX_XXX XX
+BX ______G______ XB
+BX XXX_XXBXX_XXX XB
+BX X___XGGGX___X XB
+XX X_X_XXXXX_X_X XX
+__ __X_______X__ __
+XX XXXXX_X_XXXXX XX
+BX     __X__     XB
+XX XXX XXXXX XXX XX
+X        P        X
+X XX XXX X XXX XX X
+X XX X   X   X XX X
+XUXX X XXXXX X XXUX
+X                 X
+XXXXXXXXXXXXXXXXXXX
